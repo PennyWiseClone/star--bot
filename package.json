@@ -1,0 +1,8 @@
+{
+  "name": "StarBot",
+  "version": "1.0.0",
+  "description": "An awesome amazing bot with commands goloar!",
+  "main": "bot.js",
+  "author": "PennyWiseClone",
+  "dependencies": {}
+}
